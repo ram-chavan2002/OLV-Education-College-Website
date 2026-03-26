@@ -1,0 +1,441 @@
+[16-Feb-2026 08:44:51 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 08:44:51 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 08:44:51 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 08:44:51 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 08:48:01 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 08:48:01 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 08:55:32 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 08:55:32 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 09:03:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sai7755_college.course_comments' doesn't exist in /home/sai7755/public_html/college/front3/courses3.php:17
+Stack trace:
+#0 /home/sai7755/public_html/college/front3/courses3.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front3/courses3.php on line 17
+[16-Feb-2026 09:19:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'title' in 'field list' in /home/sai7755/public_html/college/front3/courses3.php:23
+Stack trace:
+#0 /home/sai7755/public_html/college/front3/courses3.php(23): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front3/courses3.php on line 23
+[16-Feb-2026 09:24:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home/sai7755/public_html/college/front3/courses3.php:23
+Stack trace:
+#0 /home/sai7755/public_html/college/front3/courses3.php(23): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front3/courses3.php on line 23
+[16-Feb-2026 09:24:44 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:24:44 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:24:44 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 1129
+[16-Feb-2026 09:24:44 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 1129
+[16-Feb-2026 09:24:44 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:24:44 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:24:44 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 1129
+[16-Feb-2026 09:24:44 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 1129
+[16-Feb-2026 09:29:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home/sai7755/public_html/college/front3/courses3.php:23
+Stack trace:
+#0 /home/sai7755/public_html/college/front3/courses3.php(23): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front3/courses3.php on line 23
+[16-Feb-2026 09:30:57 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:30:57 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:30:57 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 658
+[16-Feb-2026 09:30:57 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 658
+[16-Feb-2026 09:31:51 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:31:51 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:31:51 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 1129
+[16-Feb-2026 09:31:51 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 1129
+[16-Feb-2026 09:34:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home/sai7755/public_html/college/front3/courses3.php:9
+Stack trace:
+#0 /home/sai7755/public_html/college/front3/courses3.php(9): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front3/courses3.php on line 9
+[16-Feb-2026 09:35:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'where clause' in /home/sai7755/public_html/college/front3/courses3.php:22
+Stack trace:
+#0 /home/sai7755/public_html/college/front3/courses3.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front3/courses3.php on line 22
+[16-Feb-2026 09:35:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'title' in 'field list' in /home/sai7755/public_html/college/front3/courses3.php:23
+Stack trace:
+#0 /home/sai7755/public_html/college/front3/courses3.php(23): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front3/courses3.php on line 23
+[16-Feb-2026 09:38:45 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:38:45 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:38:45 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 1129
+[16-Feb-2026 09:38:45 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 1129
+[16-Feb-2026 09:45:08 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:45:08 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 3
+[16-Feb-2026 09:45:08 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/home3.php on line 1129
+[16-Feb-2026 09:45:08 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/home3.php on line 1129
+[16-Feb-2026 09:46:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sai7755_college.mum_course' doesn't exist in /home/sai7755/public_html/college/front3/courses3.php:17
+Stack trace:
+#0 /home/sai7755/public_html/college/front3/courses3.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front3/courses3.php on line 17
+[16-Feb-2026 09:46:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sai7755_college.mum_course' doesn't exist in /home/sai7755/public_html/college/front3/courses3.php:17
+Stack trace:
+#0 /home/sai7755/public_html/college/front3/courses3.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front3/courses3.php on line 17
+[16-Feb-2026 09:47:58 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 09:47:58 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 09:47:58 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 09:47:58 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 09:53:44 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 09:53:44 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 09:53:44 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 265
+[16-Feb-2026 09:53:44 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 265
+[16-Feb-2026 10:06:04 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[16-Feb-2026 10:06:04 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[16-Feb-2026 10:06:04 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 277
+[16-Feb-2026 10:06:04 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 277
+[16-Feb-2026 10:06:04 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[16-Feb-2026 10:06:04 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[16-Feb-2026 10:06:04 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 277
+[16-Feb-2026 10:06:04 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 277
+[16-Feb-2026 10:11:59 UTC] PHP Warning:  Undefined array key "name" in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:11:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:11:59 UTC] PHP Warning:  Undefined array key "name" in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:11:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:11:59 UTC] PHP Warning:  Undefined array key "name" in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:11:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:11:59 UTC] PHP Warning:  Undefined array key "name" in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:11:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:11:59 UTC] PHP Warning:  Undefined array key "name" in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:11:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:11:59 UTC] PHP Warning:  Undefined array key "name" in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:11:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sai7755/public_html/college/front3/courses3.php on line 240
+[16-Feb-2026 10:19:27 UTC] Courses count for college_id 1: 6
+[16-Feb-2026 10:19:27 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sai7755/public_html/college/front3/courses3.php on line 168
+[16-Feb-2026 10:19:27 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sai7755/public_html/college/front3/courses3.php on line 168
+[16-Feb-2026 10:19:27 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sai7755/public_html/college/front3/courses3.php on line 168
+[16-Feb-2026 10:19:27 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/sai7755/public_html/college/front3/courses3.php on line 168
+[16-Feb-2026 10:20:05 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[16-Feb-2026 10:20:05 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[16-Feb-2026 10:20:05 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 278
+[16-Feb-2026 10:20:05 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 278
+[16-Feb-2026 10:43:36 UTC] PHP Warning:  require_once(db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/ContactUs3.php on line 14
+[16-Feb-2026 10:43:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/ContactUs3.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/ContactUs3.php on line 14
+[16-Feb-2026 10:44:19 UTC] PHP Warning:  require_once(db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/ContactUs3.php on line 14
+[16-Feb-2026 10:44:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/ContactUs3.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/ContactUs3.php on line 14
+[16-Feb-2026 10:46:25 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:46:34 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:47:09 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:47:22 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:47:22 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:47:38 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:47:41 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:48:08 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:49:03 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:50:21 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:51:57 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:52:00 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:52:01 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:52:13 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:52:14 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:52:14 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:52:14 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:52:15 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:52:15 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:52:59 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 14
+[16-Feb-2026 10:52:59 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 14
+[16-Feb-2026 10:52:59 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 288
+[16-Feb-2026 10:52:59 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 288
+[16-Feb-2026 10:53:00 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:54:26 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:55:26 UTC] PHP Warning:  require_once(db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 14
+[16-Feb-2026 10:55:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/courses3.php on line 14
+[16-Feb-2026 10:55:49 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:56:36 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:57:21 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:58:10 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 10:58:10 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 10:58:10 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 10:58:10 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 10:58:10 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:59:04 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 10:59:36 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:00:07 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:00:34 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:00:36 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:00:36 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:00:37 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:01:29 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:01:34 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:01:41 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:01:41 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:03:10 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:03:19 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:03:49 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:03:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front3/courses3.php on line 180
+[16-Feb-2026 11:03:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front3/courses3.php on line 180
+[16-Feb-2026 11:03:53 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:03:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front3/courses3.php on line 180
+[16-Feb-2026 11:04:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front3/courses3.php on line 180
+[16-Feb-2026 11:04:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front3/courses3.php on line 180
+[16-Feb-2026 11:04:11 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:04:18 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:04:31 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:04:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front3/courses3.php on line 180
+[16-Feb-2026 11:04:53 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:06:48 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:06:50 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:06:50 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:06:54 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:07:29 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 11:07:29 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 11:07:29 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 11:07:29 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 291
+[16-Feb-2026 11:07:47 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:08:01 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 11:08:01 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 6
+[16-Feb-2026 11:08:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front3/courses3.php on line 180
+[16-Feb-2026 11:08:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front3/courses3.php on line 180
+[16-Feb-2026 11:08:55 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front3/header3.php:8) in /home/sai7755/public_html/college/front3/header3.php on line 10
+[16-Feb-2026 11:09:07 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 8
+[16-Feb-2026 11:09:07 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 8
+[16-Feb-2026 11:09:33 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 8
+[16-Feb-2026 11:09:33 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 8
+[16-Feb-2026 11:09:33 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/courses3.php on line 235
+[16-Feb-2026 11:09:33 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/courses3.php on line 235
+[16-Feb-2026 11:10:18 UTC] Courses count: 6
+[16-Feb-2026 11:10:56 UTC] Courses count: 6
+[16-Feb-2026 11:13:48 UTC] Courses count: 6
+[16-Feb-2026 11:14:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front3/ContactUs3.php on line 180
+[16-Feb-2026 11:16:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front3/ContactUs3.php on line 180
+[16-Feb-2026 11:16:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front3/ContactUs3.php on line 180
+[16-Feb-2026 11:29:30 UTC] PHP Warning:  Undefined variable $stmt in /home/sai7755/public_html/college/front3/ContactUs3.php on line 174
+[16-Feb-2026 11:29:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sai7755/public_html/college/front3/ContactUs3.php:174
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/ContactUs3.php on line 174
+[16-Feb-2026 11:40:01 UTC] Courses count: 6
+[16-Feb-2026 11:40:42 UTC] PHP Warning:  Undefined variable $stmt in /home/sai7755/public_html/college/front3/ContactUs3.php on line 219
+[16-Feb-2026 11:40:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sai7755/public_html/college/front3/ContactUs3.php:219
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/ContactUs3.php on line 219
+[16-Feb-2026 11:42:33 UTC] PHP Warning:  Undefined variable $stmt in /home/sai7755/public_html/college/front3/ContactUs3.php on line 219
+[16-Feb-2026 11:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sai7755/public_html/college/front3/ContactUs3.php:219
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/ContactUs3.php on line 219
+[16-Feb-2026 11:43:37 UTC] PHP Warning:  Undefined variable $stmt in /home/sai7755/public_html/college/front3/ContactUs3.php on line 223
+[16-Feb-2026 11:43:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sai7755/public_html/college/front3/ContactUs3.php:223
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/ContactUs3.php on line 223
+[16-Feb-2026 11:46:25 UTC] PHP Warning:  Undefined variable $stmt in /home/sai7755/public_html/college/front3/ContactUs3.php on line 223
+[16-Feb-2026 11:46:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sai7755/public_html/college/front3/ContactUs3.php:223
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/ContactUs3.php on line 223
+[16-Feb-2026 11:47:16 UTC] PHP Warning:  Undefined variable $stmt in /home/sai7755/public_html/college/front3/ContactUs3.php on line 185
+[16-Feb-2026 11:47:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sai7755/public_html/college/front3/ContactUs3.php:185
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/ContactUs3.php on line 185
+[16-Feb-2026 11:55:47 UTC] Courses count: 6
+[16-Feb-2026 11:57:05 UTC] Courses count: 6
+[16-Feb-2026 12:31:47 UTC] Courses count: 6
+[16-Feb-2026 12:31:58 UTC] Courses count: 6
+[16-Feb-2026 12:52:32 UTC] Courses count: 6
+[16-Feb-2026 13:01:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front3/header3.php:16) in /home/sai7755/public_html/college/front3/ContactUs3.php on line 41
+[16-Feb-2026 13:03:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front3/header3.php:16) in /home/sai7755/public_html/college/front3/ContactUs3.php on line 51
+[16-Feb-2026 13:04:57 UTC] Courses count: 6
+[16-Feb-2026 13:05:35 UTC] PHP Warning:  Undefined variable $success in /home/sai7755/public_html/college/front3/ContactUs3.php on line 165
+[16-Feb-2026 13:05:35 UTC] PHP Warning:  Undefined variable $error in /home/sai7755/public_html/college/front3/ContactUs3.php on line 171
+[16-Feb-2026 13:06:32 UTC] Courses count: 6
+[16-Feb-2026 13:12:09 UTC] Courses count: 6
+[16-Feb-2026 13:17:43 UTC] Courses count: 6
+[16-Feb-2026 13:17:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front3/header3.php:16) in /home/sai7755/public_html/college/front3/ContactUs3.php on line 38
+[16-Feb-2026 13:20:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front3/header3.php:16) in /home/sai7755/public_html/college/front3/ContactUs3.php on line 38
+[16-Feb-2026 13:23:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front3/header3.php:16) in /home/sai7755/public_html/college/front3/ContactUs3.php on line 38
+[16-Feb-2026 13:23:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front3/header3.php:16) in /home/sai7755/public_html/college/front3/ContactUs3.php on line 38
+[16-Feb-2026 13:23:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front3/header3.php:16) in /home/sai7755/public_html/college/front3/ContactUs3.php on line 38
+[16-Feb-2026 13:32:22 UTC] Courses count: 6
+[16-Feb-2026 14:26:30 UTC] Courses count: 6
+[17-Feb-2026 07:49:47 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front3/../includes/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/complaint3.php on line 6
+[17-Feb-2026 07:49:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front3/../includes/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/complaint3.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/complaint3.php on line 6
+[17-Feb-2026 07:49:51 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front3/../includes/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/complaint3.php on line 6
+[17-Feb-2026 07:49:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front3/../includes/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/complaint3.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/complaint3.php on line 6
+[17-Feb-2026 07:58:35 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front3/complaint3.php on line 69
+[17-Feb-2026 07:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front3/complaint3.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/complaint3.php on line 69
+[17-Feb-2026 10:31:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front3/complaint3.php on line 4
+[17-Feb-2026 10:47:53 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sai7755/public_html/college/front3/complaint3.php on line 3
+[17-Feb-2026 10:48:20 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/sai7755/public_html/college/front3/complaint3.php on line 3
+[17-Feb-2026 12:26:10 UTC] PHP Warning:  include(header1.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/complaint3.php on line 103
+[17-Feb-2026 12:26:10 UTC] PHP Warning:  include(): Failed opening 'header1.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/complaint3.php on line 103
+[17-Feb-2026 12:26:10 UTC] PHP Warning:  include(footer1.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/complaint3.php on line 488
+[17-Feb-2026 12:26:10 UTC] PHP Warning:  include(): Failed opening 'footer1.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/complaint3.php on line 488
+[17-Feb-2026 12:26:18 UTC] PHP Warning:  include(header1.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/complaint3.php on line 103
+[17-Feb-2026 12:26:18 UTC] PHP Warning:  include(): Failed opening 'header1.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/complaint3.php on line 103
+[17-Feb-2026 12:26:18 UTC] PHP Warning:  include(footer1.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/complaint3.php on line 488
+[17-Feb-2026 12:26:18 UTC] PHP Warning:  include(): Failed opening 'footer1.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/complaint3.php on line 488
+[17-Feb-2026 13:06:49 UTC] Courses count: 6
+[17-Feb-2026 13:06:57 UTC] Courses count: 6
+[17-Feb-2026 13:07:18 UTC] Courses count: 6
+[17-Feb-2026 13:07:40 UTC] Courses count: 6
+[17-Feb-2026 13:09:35 UTC] Courses count: 6
+[17-Feb-2026 13:10:01 UTC] Courses count: 6
+[17-Feb-2026 13:19:26 UTC] Courses count: 6
+[17-Feb-2026 13:19:44 UTC] Courses count: 6
+[17-Feb-2026 13:47:13 UTC] Courses count: 6
+[17-Feb-2026 13:47:32 UTC] Courses count: 6
+[17-Feb-2026 13:48:48 UTC] Courses count: 6
+[17-Feb-2026 13:49:51 UTC] Courses count: 6
+[17-Feb-2026 13:51:10 UTC] Courses count: 6
+[17-Feb-2026 13:55:44 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/teachers3.php on line 15
+[17-Feb-2026 13:55:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front3/header.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/teachers3.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/teachers3.php on line 15
+[17-Feb-2026 13:55:47 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/teachers3.php on line 15
+[17-Feb-2026 13:55:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front3/header.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/teachers3.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front3/teachers3.php on line 15
+[17-Feb-2026 13:58:00 UTC] Courses count: 6
+[17-Feb-2026 14:02:19 UTC] Courses count: 6
+[17-Feb-2026 14:03:05 UTC] Courses count: 6
+[17-Feb-2026 17:16:18 UTC] Courses count: 6
+[17-Feb-2026 17:18:39 UTC] Courses count: 6
+[18-Feb-2026 05:50:03 UTC] Courses count: 6
+[18-Feb-2026 05:51:05 UTC] Courses count: 6
+[18-Feb-2026 11:05:01 UTC] Courses count: 6
+[18-Feb-2026 13:07:47 UTC] Courses count: 6
+[19-Feb-2026 11:39:53 UTC] Courses count: 6
+[19-Feb-2026 11:48:45 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/../header1.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/Gallery3.php on line 7
+[19-Feb-2026 11:48:45 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/../header1.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/Gallery3.php on line 7
+[19-Feb-2026 11:48:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sai7755_college.__mum_gallery__' doesn't exist in /home/sai7755/public_html/college/front3/Gallery3.php:22
+Stack trace:
+#0 /home/sai7755/public_html/college/front3/Gallery3.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front3/Gallery3.php on line 22
+[19-Feb-2026 13:06:01 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[19-Feb-2026 13:06:01 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[19-Feb-2026 13:06:01 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[19-Feb-2026 13:06:01 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[19-Feb-2026 13:39:35 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[19-Feb-2026 13:39:35 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[19-Feb-2026 13:39:35 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[19-Feb-2026 13:39:35 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[20-Feb-2026 11:00:00 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[20-Feb-2026 11:00:00 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[20-Feb-2026 11:00:00 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[20-Feb-2026 11:00:00 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[20-Feb-2026 11:18:17 UTC] Courses count: 6
+[26-Feb-2026 04:13:48 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[26-Feb-2026 04:13:48 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[26-Feb-2026 04:13:48 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[26-Feb-2026 04:13:48 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[26-Feb-2026 08:04:28 UTC] Courses count: 6
+[27-Feb-2026 16:33:41 UTC] Courses count: 6
+[28-Feb-2026 12:49:52 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[28-Feb-2026 12:49:52 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[28-Feb-2026 12:49:52 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[28-Feb-2026 12:49:52 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[01-Mar-2026 02:24:52 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[01-Mar-2026 02:24:52 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[01-Mar-2026 02:24:52 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[01-Mar-2026 02:24:52 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[01-Mar-2026 02:36:44 UTC] Courses count: 6
+[01-Mar-2026 18:51:57 UTC] Courses count: 6
+[01-Mar-2026 21:44:08 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[01-Mar-2026 21:44:08 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[01-Mar-2026 21:44:08 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[01-Mar-2026 21:44:08 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[02-Mar-2026 05:45:06 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[02-Mar-2026 05:45:06 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[02-Mar-2026 05:45:06 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[02-Mar-2026 05:45:06 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[02-Mar-2026 05:45:12 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[02-Mar-2026 05:45:12 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[02-Mar-2026 05:45:12 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[02-Mar-2026 05:45:12 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[02-Mar-2026 21:17:07 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[02-Mar-2026 21:17:07 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[02-Mar-2026 21:17:07 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[02-Mar-2026 21:17:07 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[03-Mar-2026 17:45:50 UTC] Courses count: 6
+[03-Mar-2026 18:39:04 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[03-Mar-2026 18:39:04 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[03-Mar-2026 18:39:04 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[03-Mar-2026 18:39:04 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[03-Mar-2026 18:45:47 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[03-Mar-2026 18:45:47 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[03-Mar-2026 18:45:47 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[03-Mar-2026 18:45:47 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[03-Mar-2026 20:18:00 UTC] Courses count: 6
+[04-Mar-2026 06:12:05 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[04-Mar-2026 06:12:05 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[04-Mar-2026 06:12:05 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[04-Mar-2026 06:12:05 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[04-Mar-2026 06:12:06 UTC] Courses count: 6
+[04-Mar-2026 21:24:41 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[04-Mar-2026 21:24:41 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[04-Mar-2026 21:24:41 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[04-Mar-2026 21:24:41 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[05-Mar-2026 17:24:03 UTC] Courses count: 6
+[06-Mar-2026 07:39:49 UTC] Courses count: 6
+[06-Mar-2026 07:40:19 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[06-Mar-2026 07:40:19 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[06-Mar-2026 07:40:19 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[06-Mar-2026 07:40:19 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[06-Mar-2026 08:28:32 UTC] Courses count: 6
+[06-Mar-2026 17:59:06 UTC] Courses count: 6
+[07-Mar-2026 04:13:12 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[07-Mar-2026 04:13:12 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[07-Mar-2026 04:13:12 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[07-Mar-2026 04:13:12 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[07-Mar-2026 04:13:15 UTC] Courses count: 6
+[07-Mar-2026 22:00:52 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[07-Mar-2026 22:00:52 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[07-Mar-2026 22:00:52 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[07-Mar-2026 22:00:52 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[09-Mar-2026 08:08:56 UTC] Courses count: 6
+[11-Mar-2026 17:55:11 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[11-Mar-2026 17:55:11 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[11-Mar-2026 17:55:11 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[11-Mar-2026 17:55:11 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[11-Mar-2026 18:05:16 UTC] Courses count: 6
+[12-Mar-2026 22:03:16 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[12-Mar-2026 22:03:16 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[12-Mar-2026 22:03:16 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[12-Mar-2026 22:03:16 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[12-Mar-2026 22:03:37 UTC] Courses count: 6
+[13-Mar-2026 03:48:12 UTC] Courses count: 6
+[14-Mar-2026 08:27:16 UTC] Courses count: 6
+[15-Mar-2026 14:10:28 UTC] Courses count: 6
+[15-Mar-2026 22:17:50 UTC] Courses count: 6
+[16-Mar-2026 22:41:55 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[16-Mar-2026 22:41:55 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[16-Mar-2026 22:41:55 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[16-Mar-2026 22:41:55 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[16-Mar-2026 23:17:09 UTC] Courses count: 6
+[19-Mar-2026 00:07:13 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[19-Mar-2026 00:07:13 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[19-Mar-2026 00:07:13 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[19-Mar-2026 00:07:13 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480
+[19-Mar-2026 07:25:47 UTC] Courses count: 6
+[19-Mar-2026 20:51:06 UTC] Courses count: 6
+[24-Mar-2026 01:06:11 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 3
+[24-Mar-2026 01:06:11 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 3
+[24-Mar-2026 01:06:11 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front3/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front3/about3.php on line 480
+[24-Mar-2026 01:06:11 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front3/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front3/about3.php on line 480

@@ -1,0 +1,834 @@
+[13-Feb-2026 11:32:48 UTC] PHP Warning:  include(college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:32:48 UTC] PHP Warning:  include(): Failed opening 'college/front/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:32:48 UTC] PHP Warning:  include(college/front/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 797
+[13-Feb-2026 11:32:48 UTC] PHP Warning:  include(): Failed opening 'college/front/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 797
+[13-Feb-2026 11:34:05 UTC] PHP Warning:  include(college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:34:05 UTC] PHP Warning:  include(): Failed opening 'college/front/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:34:05 UTC] PHP Warning:  include(college/front/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 797
+[13-Feb-2026 11:34:05 UTC] PHP Warning:  include(): Failed opening 'college/front/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 797
+[13-Feb-2026 11:34:10 UTC] PHP Warning:  include(college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:34:10 UTC] PHP Warning:  include(): Failed opening 'college/front/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:34:10 UTC] PHP Warning:  include(college/front/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 797
+[13-Feb-2026 11:34:10 UTC] PHP Warning:  include(): Failed opening 'college/front/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 797
+[13-Feb-2026 11:34:11 UTC] PHP Warning:  include(college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:34:11 UTC] PHP Warning:  include(): Failed opening 'college/front/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:34:11 UTC] PHP Warning:  include(college/front/footer.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 797
+[13-Feb-2026 11:34:11 UTC] PHP Warning:  include(): Failed opening 'college/front/footer.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 797
+[13-Feb-2026 11:39:19 UTC] PHP Warning:  include(college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:39:19 UTC] PHP Warning:  include(): Failed opening 'college/front/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:41:54 UTC] PHP Warning:  include(college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:41:54 UTC] PHP Warning:  include(): Failed opening 'college/front/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:42:22 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 2
+[13-Feb-2026 11:42:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/college/front/header.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/olv-school.php on line 2
+[13-Feb-2026 11:44:39 UTC] PHP Warning:  include(college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:44:39 UTC] PHP Warning:  include(): Failed opening 'college/front/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:45:00 UTC] PHP Warning:  include(college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:45:00 UTC] PHP Warning:  include(): Failed opening 'college/front/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 3
+[13-Feb-2026 11:45:17 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 2
+[13-Feb-2026 11:45:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/college/front/header.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/olv-school.php on line 2
+[13-Feb-2026 11:45:18 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 2
+[13-Feb-2026 11:45:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/college/front/header.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/olv-school.php on line 2
+[13-Feb-2026 11:45:24 UTC] PHP Warning:  include(college/front/header.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/olv-school.php on line 4
+[13-Feb-2026 11:45:24 UTC] PHP Warning:  include(): Failed opening 'college/front/header.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/olv-school.php on line 4
+[13-Feb-2026 12:17:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function olv_active() in /home/sai7755/public_html/college/front/footer.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/footer.php on line 36
+[13-Feb-2026 12:21:47 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:32:25 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:32:25 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:34:49 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:34:50 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:34:56 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:35:11 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:35:22 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:35:30 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:40:45 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:45:57 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:46:36 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:47:10 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:47:53 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:51:44 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:53:53 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 12:54:29 UTC] PHP Fatal error:  Cannot redeclare olv_active() (previously declared in /home/sai7755/public_html/college/front/header.php:6) in /home/sai7755/public_html/college/front/footer.php on line 8
+[13-Feb-2026 13:29:39 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/courses.php on line 9
+[13-Feb-2026 13:29:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/courses.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 9
+[13-Feb-2026 13:30:03 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/courses.php on line 9
+[13-Feb-2026 13:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/courses.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 9
+[13-Feb-2026 13:30:04 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/courses.php on line 9
+[13-Feb-2026 13:30:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/courses.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 9
+[13-Feb-2026 13:30:05 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/courses.php on line 9
+[13-Feb-2026 13:30:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/courses.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 9
+[13-Feb-2026 13:30:13 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/courses.php on line 9
+[13-Feb-2026 13:30:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/courses.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 9
+[13-Feb-2026 13:30:59 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/coursess.php on line 9
+[13-Feb-2026 13:30:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/coursess.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 9
+[13-Feb-2026 13:32:43 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/coursess.php on line 9
+[13-Feb-2026 13:32:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/coursess.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 9
+[13-Feb-2026 13:32:44 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/coursess.php on line 9
+[13-Feb-2026 13:32:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/coursess.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 9
+[13-Feb-2026 13:32:45 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/coursess.php on line 9
+[13-Feb-2026 13:32:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/coursess.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 9
+[13-Feb-2026 13:33:17 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/coursess.php on line 11
+[13-Feb-2026 13:33:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/coursess.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 11
+[13-Feb-2026 13:33:24 UTC] PHP Warning:  require_once(../config/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/courses.php on line 4
+[13-Feb-2026 13:33:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/courses.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 4
+[13-Feb-2026 13:44:18 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/coursess.php on line 11
+[13-Feb-2026 13:44:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/coursess.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 11
+[13-Feb-2026 13:55:30 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:52 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:53 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:54 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:54 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:54 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:55 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:55 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:55 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:56 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:56 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:56 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:57 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:57 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:55:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 4
+[13-Feb-2026 13:56:37 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 6
+[13-Feb-2026 13:56:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 6
+[13-Feb-2026 13:58:00 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/coursess.php on line 13
+[13-Feb-2026 13:58:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/coursess.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 13
+[13-Feb-2026 13:59:41 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 13:59:41 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 13:59:41 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/courses.php on line 13
+[13-Feb-2026 13:59:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sai7755/public_html/college/front/courses.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 13
+[13-Feb-2026 13:59:42 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 13:59:42 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 13:59:42 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/courses.php on line 13
+[13-Feb-2026 13:59:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sai7755/public_html/college/front/courses.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 13
+[13-Feb-2026 13:59:48 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 13:59:48 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 13:59:48 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/courses.php on line 13
+[13-Feb-2026 13:59:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sai7755/public_html/college/front/courses.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 13
+[13-Feb-2026 13:59:59 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 13:59:59 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 13:59:59 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/courses.php on line 13
+[13-Feb-2026 13:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sai7755/public_html/college/front/courses.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 13
+[13-Feb-2026 14:00:14 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 8
+[13-Feb-2026 14:00:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 8
+[13-Feb-2026 14:00:15 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/../college/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/coursess.php on line 8
+[13-Feb-2026 14:00:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/../college/db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/coursess.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 8
+[13-Feb-2026 14:00:44 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 14:00:44 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 14:00:44 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/courses.php on line 13
+[13-Feb-2026 14:00:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sai7755/public_html/college/front/courses.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 13
+[13-Feb-2026 14:02:25 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 14:02:25 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/courses.php on line 6
+[13-Feb-2026 14:02:25 UTC] PHP Warning:  Undefined variable $pdo in /home/sai7755/public_html/college/front/courses.php on line 96
+[13-Feb-2026 14:02:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sai7755/public_html/college/front/courses.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/courses.php on line 96
+[13-Feb-2026 14:03:51 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/coursess.php on line 20
+[13-Feb-2026 14:03:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/sai7755/public_html/college/front/coursess.php:20
+Stack trace:
+#0 /home/sai7755/public_html/college/front/coursess.php(20): mysqli_query()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 20
+[13-Feb-2026 14:04:45 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/coursess.php on line 23
+[13-Feb-2026 14:05:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sai7755_college.courses' doesn't exist in /home/sai7755/public_html/college/front/coursess.php:30
+Stack trace:
+#0 /home/sai7755/public_html/college/front/coursess.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 30
+[13-Feb-2026 14:05:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sai7755_college.courses' doesn't exist in /home/sai7755/public_html/college/front/coursess.php:30
+Stack trace:
+#0 /home/sai7755/public_html/college/front/coursess.php(30): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/coursess.php on line 30
+[13-Feb-2026 14:18:42 UTC] PHP Warning:  Undefined array key "full_video_path" in /home/sai7755/public_html/college/front/gallery.php on line 113
+[13-Feb-2026 14:18:42 UTC] PHP Warning:  Undefined array key "full_file_path" in /home/sai7755/public_html/college/front/gallery.php on line 113
+[13-Feb-2026 14:18:42 UTC] PHP Warning:  Undefined array key "created_at" in /home/sai7755/public_html/college/front/gallery.php on line 164
+[13-Feb-2026 14:18:42 UTC] PHP Warning:  Undefined array key "tags" in /home/sai7755/public_html/college/front/gallery.php on line 172
+[13-Feb-2026 14:18:42 UTC] PHP Warning:  Undefined array key "full_thumb_path" in /home/sai7755/public_html/college/front/gallery.php on line 112
+[13-Feb-2026 14:18:42 UTC] PHP Warning:  Undefined array key "full_file_path" in /home/sai7755/public_html/college/front/gallery.php on line 112
+[13-Feb-2026 14:18:42 UTC] PHP Warning:  Undefined array key "featured" in /home/sai7755/public_html/college/front/gallery.php on line 145
+[13-Feb-2026 14:18:42 UTC] PHP Warning:  Undefined array key "created_at" in /home/sai7755/public_html/college/front/gallery.php on line 164
+[13-Feb-2026 14:18:42 UTC] PHP Warning:  Undefined array key "tags" in /home/sai7755/public_html/college/front/gallery.php on line 172
+[13-Feb-2026 14:19:27 UTC] PHP Warning:  Undefined array key "full_video_path" in /home/sai7755/public_html/college/front/gallery.php on line 113
+[13-Feb-2026 14:19:27 UTC] PHP Warning:  Undefined array key "full_file_path" in /home/sai7755/public_html/college/front/gallery.php on line 113
+[13-Feb-2026 14:19:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/sai7755/public_html/college/front/gallery.php on line 164
+[13-Feb-2026 14:19:27 UTC] PHP Warning:  Undefined array key "tags" in /home/sai7755/public_html/college/front/gallery.php on line 172
+[13-Feb-2026 14:19:27 UTC] PHP Warning:  Undefined array key "full_thumb_path" in /home/sai7755/public_html/college/front/gallery.php on line 112
+[13-Feb-2026 14:19:27 UTC] PHP Warning:  Undefined array key "full_file_path" in /home/sai7755/public_html/college/front/gallery.php on line 112
+[13-Feb-2026 14:19:27 UTC] PHP Warning:  Undefined array key "featured" in /home/sai7755/public_html/college/front/gallery.php on line 145
+[13-Feb-2026 14:19:27 UTC] PHP Warning:  Undefined array key "created_at" in /home/sai7755/public_html/college/front/gallery.php on line 164
+[13-Feb-2026 14:19:27 UTC] PHP Warning:  Undefined array key "tags" in /home/sai7755/public_html/college/front/gallery.php on line 172
+[13-Feb-2026 14:20:05 UTC] PHP Warning:  Undefined array key "full_video_path" in /home/sai7755/public_html/college/front/gallery.php on line 113
+[13-Feb-2026 14:20:05 UTC] PHP Warning:  Undefined array key "full_file_path" in /home/sai7755/public_html/college/front/gallery.php on line 113
+[13-Feb-2026 14:20:05 UTC] PHP Warning:  Undefined array key "created_at" in /home/sai7755/public_html/college/front/gallery.php on line 164
+[13-Feb-2026 14:20:05 UTC] PHP Warning:  Undefined array key "tags" in /home/sai7755/public_html/college/front/gallery.php on line 172
+[13-Feb-2026 14:20:05 UTC] PHP Warning:  Undefined array key "full_thumb_path" in /home/sai7755/public_html/college/front/gallery.php on line 112
+[13-Feb-2026 14:20:05 UTC] PHP Warning:  Undefined array key "full_file_path" in /home/sai7755/public_html/college/front/gallery.php on line 112
+[13-Feb-2026 14:20:05 UTC] PHP Warning:  Undefined array key "featured" in /home/sai7755/public_html/college/front/gallery.php on line 145
+[13-Feb-2026 14:20:05 UTC] PHP Warning:  Undefined array key "created_at" in /home/sai7755/public_html/college/front/gallery.php on line 164
+[13-Feb-2026 14:20:05 UTC] PHP Warning:  Undefined array key "tags" in /home/sai7755/public_html/college/front/gallery.php on line 172
+[13-Feb-2026 14:21:20 UTC] PHP Warning:  Undefined array key "full_video_path" in /home/sai7755/public_html/college/front/gallery.php on line 113
+[13-Feb-2026 14:21:20 UTC] PHP Warning:  Undefined array key "full_file_path" in /home/sai7755/public_html/college/front/gallery.php on line 113
+[13-Feb-2026 14:21:20 UTC] PHP Warning:  Undefined array key "created_at" in /home/sai7755/public_html/college/front/gallery.php on line 164
+[13-Feb-2026 14:21:20 UTC] PHP Warning:  Undefined array key "tags" in /home/sai7755/public_html/college/front/gallery.php on line 172
+[13-Feb-2026 14:21:20 UTC] PHP Warning:  Undefined array key "full_thumb_path" in /home/sai7755/public_html/college/front/gallery.php on line 112
+[13-Feb-2026 14:21:20 UTC] PHP Warning:  Undefined array key "full_file_path" in /home/sai7755/public_html/college/front/gallery.php on line 112
+[13-Feb-2026 14:21:20 UTC] PHP Warning:  Undefined array key "featured" in /home/sai7755/public_html/college/front/gallery.php on line 145
+[13-Feb-2026 14:21:20 UTC] PHP Warning:  Undefined array key "created_at" in /home/sai7755/public_html/college/front/gallery.php on line 164
+[13-Feb-2026 14:21:20 UTC] PHP Warning:  Undefined array key "tags" in /home/sai7755/public_html/college/front/gallery.php on line 172
+[14-Feb-2026 10:08:24 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/header1.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 3
+[14-Feb-2026 10:08:24 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/header1.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 3
+[14-Feb-2026 10:08:24 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/footer1.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 708
+[14-Feb-2026 10:08:24 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/footer1.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 708
+[14-Feb-2026 10:08:37 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/header1.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 3
+[14-Feb-2026 10:08:37 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/header1.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 3
+[14-Feb-2026 10:08:37 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/footer1.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 708
+[14-Feb-2026 10:08:37 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/footer1.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 708
+[14-Feb-2026 10:08:49 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/header1.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 3
+[14-Feb-2026 10:08:49 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/header1.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 3
+[14-Feb-2026 10:08:49 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/footer1.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 708
+[14-Feb-2026 10:08:49 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/footer1.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 708
+[17-Feb-2026 06:22:03 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/header3.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/ContactUs.php on line 51
+[17-Feb-2026 06:22:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/header3.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/ContactUs.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/ContactUs.php on line 51
+[17-Feb-2026 06:22:09 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/header3.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/ContactUs.php on line 51
+[17-Feb-2026 06:22:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/header3.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/ContactUs.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/ContactUs.php on line 51
+[17-Feb-2026 06:22:09 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/header3.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/ContactUs.php on line 51
+[17-Feb-2026 06:22:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/header3.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/ContactUs.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/ContactUs.php on line 51
+[17-Feb-2026 06:22:09 UTC] PHP Warning:  require_once(/home/sai7755/public_html/college/front/header3.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/ContactUs.php on line 51
+[17-Feb-2026 06:22:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sai7755/public_html/college/front/header3.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/ContactUs.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/ContactUs.php on line 51
+[17-Feb-2026 06:23:09 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/footer3.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/ContactUs.php on line 289
+[17-Feb-2026 06:23:09 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/footer3.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/ContactUs.php on line 289
+[17-Feb-2026 07:41:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/sai7755/public_html/college/front/about.php:13
+Stack trace:
+#0 /home/sai7755/public_html/college/front/about.php(13): mysqli->__construct()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 13
+[17-Feb-2026 07:41:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/sai7755/public_html/college/front/about.php:13
+Stack trace:
+#0 /home/sai7755/public_html/college/front/about.php(13): mysqli->__construct()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 13
+[17-Feb-2026 07:45:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_user'@'localhost' (using password: YES) in /home/sai7755/public_html/college/front/about.php:13
+Stack trace:
+#0 /home/sai7755/public_html/college/front/about.php(13): mysqli->__construct()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 13
+[17-Feb-2026 07:51:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'child_class' in 'field list' in /home/sai7755/public_html/college/front/about.php:264
+Stack trace:
+#0 /home/sai7755/public_html/college/front/about.php(264): mysqli->prepare()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 264
+[17-Feb-2026 07:53:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'child_class' in 'field list' in /home/sai7755/public_html/college/front/about.php:269
+Stack trace:
+#0 /home/sai7755/public_html/college/front/about.php(269): mysqli_query()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 269
+[17-Feb-2026 08:03:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 244
+[17-Feb-2026 08:03:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 244
+[17-Feb-2026 08:08:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 244
+[17-Feb-2026 08:09:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 244
+[17-Feb-2026 08:09:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 244
+[17-Feb-2026 08:09:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 244
+[17-Feb-2026 08:10:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:10:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:10:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:15:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:22:52 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:22:52 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:22:52 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/about.php on line 17
+[17-Feb-2026 08:22:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/about.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 17
+[17-Feb-2026 08:23:01 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:23:01 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:23:01 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/about.php on line 17
+[17-Feb-2026 08:23:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/about.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 17
+[17-Feb-2026 08:24:32 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:24:32 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:24:46 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:24:46 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:24:46 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/about.php on line 18
+[17-Feb-2026 08:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/about.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 18
+[17-Feb-2026 08:26:31 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:26:31 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:26:31 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:26:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/about.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:26:35 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:26:35 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:26:35 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:26:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/about.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:26:39 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:26:39 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:26:54 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:26:54 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:26:54 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:26:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/about.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:32:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 40
+[17-Feb-2026 08:33:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 40
+[17-Feb-2026 08:35:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 39
+[17-Feb-2026 08:38:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 40
+[17-Feb-2026 08:40:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:41:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:41:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:42:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 40
+[17-Feb-2026 08:43:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 40
+[17-Feb-2026 08:43:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 40
+[17-Feb-2026 08:44:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 40
+[17-Feb-2026 08:44:41 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:44:41 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:44:41 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/about.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:44:44 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:44:44 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:44:48 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:44:48 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:45:01 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:45:01 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:45:01 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:45:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/about.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:45:40 UTC] PHP Warning:  include(/home/sai7755/public_html/college/front/db_connect.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:45:40 UTC] PHP Warning:  include(): Failed opening '/home/sai7755/public_html/college/front/db_connect.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/about.php on line 7
+[17-Feb-2026 08:45:40 UTC] PHP Warning:  Undefined variable $conn in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:45:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sai7755/public_html/college/front/about.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/about.php on line 36
+[17-Feb-2026 08:52:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:52:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:56:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:56:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 66
+[17-Feb-2026 08:56:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:56:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 66
+[17-Feb-2026 08:56:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 08:56:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 66
+[17-Feb-2026 08:57:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 09:04:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 09:04:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sai7755/public_html/college/front/header.php:16) in /home/sai7755/public_html/college/front/about.php on line 66
+[17-Feb-2026 09:04:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 09:05:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 09:08:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 09:08:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 09:11:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front/about.php on line 306
+[17-Feb-2026 09:12:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front/about.php on line 312
+[17-Feb-2026 09:13:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front/about.php on line 317
+[17-Feb-2026 09:13:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sai7755/public_html/college/front/about.php on line 317
+[17-Feb-2026 09:13:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 09:13:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 11:31:44 UTC] PHP Warning:  include(teachers_backend.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/teachers.php on line 1
+[17-Feb-2026 11:31:44 UTC] PHP Warning:  include(): Failed opening 'teachers_backend.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/teachers.php on line 1
+[17-Feb-2026 11:31:44 UTC] PHP Warning:  Undefined variable $search in /home/sai7755/public_html/college/front/teachers.php on line 49
+[17-Feb-2026 11:31:44 UTC] PHP Warning:  Undefined variable $result in /home/sai7755/public_html/college/front/teachers.php on line 56
+[17-Feb-2026 11:31:44 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/sai7755/public_html/college/front/teachers.php:56
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(56): mysqli_num_rows()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 56
+[17-Feb-2026 11:36:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/sai7755/public_html/college/front/teachers.php:6
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(6): mysqli_connect()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 6
+[17-Feb-2026 11:36:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/sai7755/public_html/college/front/teachers.php:6
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(6): mysqli_connect()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 6
+[17-Feb-2026 11:37:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home/sai7755/public_html/college/front/teachers.php:6
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(6): mysqli_connect()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 6
+[17-Feb-2026 11:39:32 UTC] PHP Warning:  require_once(db.php): Failed to open stream: No such file or directory in /home/sai7755/public_html/college/front/teachers.php on line 5
+[17-Feb-2026 11:39:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sai7755/public_html/college/front/teachers.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 5
+[17-Feb-2026 11:56:25 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:289
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(289): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 289
+[17-Feb-2026 11:57:50 UTC] PHP Warning:  Undefined variable $total in /home/sai7755/public_html/college/front/teachers.php on line 2
+[17-Feb-2026 11:58:43 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:109
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(109): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 109
+[17-Feb-2026 12:01:29 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:142
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(142): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 142
+[17-Feb-2026 12:08:54 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:321
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(321): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 321
+[17-Feb-2026 12:10:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/sai7755/public_html/college/front/teachers.php:8
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(8): mysqli_connect()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 8
+[17-Feb-2026 12:10:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/sai7755/public_html/college/front/teachers.php:8
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(8): mysqli_connect()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 8
+[17-Feb-2026 12:11:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/sai7755/public_html/college/front/teachers.php:8
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(8): mysqli_connect()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 8
+[17-Feb-2026 12:11:21 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:321
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(321): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 321
+[17-Feb-2026 12:11:47 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:142
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(142): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 142
+[17-Feb-2026 12:14:16 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:143
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(143): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 143
+[17-Feb-2026 12:14:35 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:139
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(139): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 139
+[17-Feb-2026 12:14:57 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:139
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(139): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 139
+[17-Feb-2026 12:15:15 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:139
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(139): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 139
+[17-Feb-2026 12:15:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/sai7755/public_html/college/front/teachers.php:8
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(8): mysqli_connect()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 8
+[17-Feb-2026 12:16:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/sai7755/public_html/college/front/teachers.php:11
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(11): mysqli_connect()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 11
+[17-Feb-2026 12:16:50 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:139
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(139): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 139
+[17-Feb-2026 12:18:09 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:139
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(139): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 139
+[17-Feb-2026 12:18:58 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:136
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(136): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 136
+[17-Feb-2026 12:19:18 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:317
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(317): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 317
+[17-Feb-2026 12:20:31 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:136
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(136): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 136
+[17-Feb-2026 12:20:47 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:218
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(218): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 218
+[17-Feb-2026 12:20:57 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:136
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(136): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 136
+[17-Feb-2026 12:21:52 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:136
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(136): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 136
+[17-Feb-2026 12:22:33 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:136
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(136): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 136
+[17-Feb-2026 12:23:21 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:133
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(133): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 133
+[17-Feb-2026 12:26:53 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:132
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(132): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 132
+[17-Feb-2026 12:27:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:136
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(136): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 136
+[17-Feb-2026 12:27:53 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:136
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(136): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 136
+[17-Feb-2026 12:29:47 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:133
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(133): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 133
+[17-Feb-2026 12:30:03 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:136
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(136): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 136
+[17-Feb-2026 12:30:30 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:136
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(136): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 136
+[17-Feb-2026 12:37:24 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:94
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(94): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 94
+[17-Feb-2026 12:38:48 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:254
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(254): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 254
+[17-Feb-2026 12:39:30 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:84
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(84): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 84
+[17-Feb-2026 12:39:45 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:84
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(84): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 84
+[17-Feb-2026 12:41:36 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:58
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(58): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 58
+[17-Feb-2026 12:43:22 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:205
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(205): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 205
+[17-Feb-2026 12:43:48 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:201
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(201): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 201
+[17-Feb-2026 12:46:43 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:59
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(59): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 59
+[17-Feb-2026 12:52:29 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:61
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(61): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 61
+[17-Feb-2026 12:53:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 12:53:58 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:61
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(61): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 61
+[17-Feb-2026 12:54:48 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:61
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(61): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 61
+[17-Feb-2026 12:57:04 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:59
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(59): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 59
+[17-Feb-2026 12:57:39 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:62
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(62): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 62
+[17-Feb-2026 13:02:31 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:61
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(61): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 61
+[17-Feb-2026 13:02:33 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:61
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(61): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 61
+[17-Feb-2026 13:02:37 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:61
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(61): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 61
+[17-Feb-2026 13:02:47 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:59
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(59): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 59
+[17-Feb-2026 13:02:56 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type int|float, string given in /home/sai7755/public_html/college/front/teachers.php:59
+Stack trace:
+#0 /home/sai7755/public_html/college/front/teachers.php(59): number_format()
+#1 {main}
+  thrown in /home/sai7755/public_html/college/front/teachers.php on line 59
+[17-Feb-2026 13:03:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 13:48:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 14:44:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Feb-2026 17:09:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[18-Feb-2026 05:42:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[18-Feb-2026 05:54:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[18-Feb-2026 06:05:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[18-Feb-2026 08:11:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[18-Feb-2026 08:43:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[18-Feb-2026 10:31:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[18-Feb-2026 13:07:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[18-Feb-2026 15:04:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[18-Feb-2026 15:24:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[18-Feb-2026 18:12:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[18-Feb-2026 21:38:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 06:53:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 07:11:15 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 07:29:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 07:39:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 07:44:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 08:15:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 08:16:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 08:23:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 08:41:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 09:09:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 09:10:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 09:10:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 09:15:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 09:44:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 09:45:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 09:47:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 10:50:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 10:50:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 11:05:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:13:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:14:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:24:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:25:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:26:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:27:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:28:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:31:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:35:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:36:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:36:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:37:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:38:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:39:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:40:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:42:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 12:45:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 13:08:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 13:10:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[19-Feb-2026 14:16:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[20-Feb-2026 04:15:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[20-Feb-2026 10:49:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[20-Feb-2026 18:28:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[21-Feb-2026 23:12:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[22-Feb-2026 00:17:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[01-Mar-2026 02:06:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[02-Mar-2026 22:26:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[04-Mar-2026 05:52:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[05-Mar-2026 02:41:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[06-Mar-2026 07:56:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[06-Mar-2026 22:13:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[07-Mar-2026 04:12:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[07-Mar-2026 07:59:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[09-Mar-2026 11:04:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[10-Mar-2026 07:57:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[11-Mar-2026 17:31:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[11-Mar-2026 21:28:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[12-Mar-2026 22:02:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[13-Mar-2026 18:17:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[14-Mar-2026 22:19:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[15-Mar-2026 07:24:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[16-Mar-2026 00:00:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[17-Mar-2026 00:45:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[21-Mar-2026 14:36:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
+[22-Mar-2026 23:20:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/sai7755/public_html/college/front/about.php on line 6
